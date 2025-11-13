@@ -1,4 +1,4 @@
-package com.university.usermanagementservice.controllers;
+package com.yegorov.usermanagementservice.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.university.usermanagementservice;
+package com.yegorov.usermanagementservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
